@@ -40,3 +40,5 @@ je suis intéréssé par tout ce qui touche la technologie d'innovation.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeMohamedStd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### ARTICLE
+- A Method for Transforming Object-relational to Document-oriented Databases https://github.com/SofianeMohamedStd/SofianeMohamedStd/blob/main/Paper2020.pdf
