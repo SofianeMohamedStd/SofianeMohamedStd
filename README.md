@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-je m'appelle **Sofiane** Titulaire d’un Master 1 et 2 en Systèmes Informatiques et en ce moment je prépare un diplome Concepteur Développeur d’Applications.
+je m'appelle **Sofiane** Titulaire d’un Master 1 et 2 en Systèmes Informatiques et un diplome Concepteur Développeur d’Applications chez ONLINEFORMAPRO.
 Très investi dans tout ce que je fais, , les systèmes informatiques constituent une véritable passion pour moi.
 je suis intéréssé par tout ce qui touche la technologie d'innovation.
 
