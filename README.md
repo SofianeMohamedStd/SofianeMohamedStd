@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 je m'appelle **Sofiane** Titulaire d’un Master 1 et 2 en Systèmes Informatiques et un diplome Concepteur Développeur d’Applications chez ONLINEFORMAPRO.
-Très investi dans tout ce que je fais,Actuellement chez sardel conseil pour le poste de INGENIEUR D’ETUDE & DEVELOPPEMENT IBM z/OS , les systèmes informatiques constituent une véritable passion pour moi.
+Très investi dans tout ce que je fais,Actuellement chez sardel conseil pour le poste d' INGENIEUR D’ETUDE & DEVELOPPEMENT IBM z/OS , les systèmes informatiques constituent une véritable passion pour moi.
 je suis intéréssé par tout ce qui touche la technologie d'innovation.
 
 
